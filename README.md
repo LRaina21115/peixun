@@ -2,7 +2,7 @@
 南海鲨视觉组第三次培训
 -----
 
-# 🦈 Robomaster 南海鲨战队 - 算法组招新培训 (Week 3)
+# 🦈 Robomaster 南海鲨战队 - 视觉组招新培训 (Week 3)
 
 欢迎来到 Robomaster 算法组第三周培训代码仓库！👋
 
